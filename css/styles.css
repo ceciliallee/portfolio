@@ -1,0 +1,10 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+  filter: blur(4px);
+  transition: filter 0.9s ease-out;
+}
+  
+.loaded {
+  filter: blur(0px);
+}
