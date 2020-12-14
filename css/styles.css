@@ -379,11 +379,11 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 
 h2, .h2 {
-  font-size: 3rem;
+  font-size: 2.9rem;
 }
 
 h3, .h3 {
@@ -391,15 +391,15 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 .lead {
@@ -10090,7 +10090,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #ad7883;
 }
 
 .dev-icons {
