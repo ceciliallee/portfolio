@@ -379,15 +379,15 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 4.5rem;
+  font-size: 4rem;
 }
 
 h2, .h2 {
-  font-size: 3.5rem;
+  font-size: 3rem;
 }
 
 h3, .h3 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 h4, .h4 {
@@ -10015,7 +10015,7 @@ h1 {
 }
 
 p.lead {
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 400;
 }
 
@@ -10023,7 +10023,7 @@ p.lead {
   font-family: 'Source Sans Pro', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
