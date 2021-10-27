@@ -175,7 +175,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #ad7883;
+  color: #84a4c2;
   text-decoration: underline;
 }
 
@@ -6086,7 +6086,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ad7883 !important;
+  background-color: #84a4c2 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9788,11 +9788,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #ad7883 !important;
+  color: #84a4c2; !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
+  color: #273582 !important;
 }
 
 .text-secondary {
@@ -10090,7 +10090,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #ad7883;
+  background-color: #84a4c2;
 }
 
 .dev-icons {
